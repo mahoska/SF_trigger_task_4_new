@@ -1,0 +1,15 @@
+4. As project coordinator i need to have summary fields on Project record page: Developers: - (How many developers working on the Project),
+ QA’s - (How many QA’s working on the Project), 
+You should consider all cases: 
+*When Employee become inActive or leave the company.
+*When Employee change Department. Example (From QA to Developer) 
+*When Employee leave the project 
+* When Employee assigned to the project
+
+4. В качестве координатора проекта мне нужно иметь сводные поля на странице записей проекта: Разработчики: - (Сколько разработчиков, работающих над Проектом),
+  QA - (Сколько QA работает над проектом),
+Вы должны рассмотреть все случаи:
+* Когда Сотрудник становится inActive или покинуть компанию. 
+* Когда сотрудник меняет Департамент. Пример (от QA к разработчику)
+* Когда сотрудник покидает проект
+* Когда работник назначен на проект
